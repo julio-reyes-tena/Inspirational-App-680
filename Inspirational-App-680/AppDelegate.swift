@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  Inspirational-App-680
 //
-//  Created by Julio Reyes on 5/21/24.
-//
+//  
 
 import UIKit
 
